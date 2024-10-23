@@ -5,4 +5,9 @@
 }
 .main {
     background-color: lightgrey;
+    background-image: url('record.png');
+    background-size: auto;
+    background-repeat: repeat;
+    height: 100vh;
+    margin: 0;
 }
